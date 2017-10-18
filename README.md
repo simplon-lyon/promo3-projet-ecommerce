@@ -25,3 +25,23 @@ Une phase de conception préalable au code vous est demandée :
 3) Maquettage des ecrans principaux de l'application (wireframe etc., il n'est pas question de graphisme à ce moment là, juste de design fonctionnel)
 
 4) Faire le code
+
+
+Les groupes :
+Justin - Sylvain
+Virginie - Kevin
+Clémence - Maëlle
+Manu - Valentin
+
+![alt text](https://media.giphy.com/media/3mY7xKLhOJ8mQ/giphy.gif)
+
+Les lone wolves :
+Julien
+Evan
+Cyrille
+Yanis
+Sebastien
+Thomas
+
+![alt text](https://media.giphy.com/media/12NsNduXLlm1mE/giphy.gif)
+
